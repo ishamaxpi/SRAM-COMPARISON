@@ -3,5 +3,5 @@ Parameters Comparison of different SRAM cells
 | SRAM Cells | 6T | NC | 8T | 10T |
 |---------------------------------|
 | Total Power | 471.7n | 323.0n | 116.8n | 18.59n |
-| Static Power | 7.434p | 3.833p | 790f | 182.7p | 
+| Static Power | 7.434p | 3.833p | 790f | 182.7p| 
 | Delay | 29.38p |27.86p | 4.06n | 25.71n |
